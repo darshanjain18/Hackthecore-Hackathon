@@ -10,7 +10,6 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-DistilBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
 [![Gmail API](https://img.shields.io/badge/Gmail-OAuth%202.0-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://developers.google.com/gmail)
 
-[Overview](#-overview) · [Features](#-features) · [Architecture](#-architecture) · [Installation](#-installation) · [Usage](#-usage) · [Roadmap](#-roadmap)
 
 </div>
 
