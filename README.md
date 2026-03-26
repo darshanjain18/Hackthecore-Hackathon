@@ -1,4 +1,4 @@
-# hackthecore_hackathon
+# HacktheCore_Hackathon
 # 🧠 CortexGuard AI
 
 ### Adaptive Threat Intelligence Platform
