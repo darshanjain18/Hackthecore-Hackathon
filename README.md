@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/CortexGuard-AI-00f5ff?style=for-the-badge&logo=shield&logoColor=white" alt="CortexGuard AI"/>
-
 # 🧠 CortexGuard AI
 ### Adaptive Threat Intelligence Platform
 
