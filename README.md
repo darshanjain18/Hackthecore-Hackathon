@@ -198,7 +198,7 @@ pip install -r requirements.txt
 ### 5. Run Application
 
 ```
-python gmail/app.py
+python app.py
 ```
 
 ---
@@ -214,8 +214,8 @@ python gmail/app.py
 
 ## 👨‍💻 Team
 
-**Team Name:** Cosmic Compilers
-**Hackathon:** Smart India Hackathon
+**Team Name:** BitsCompilers
+**Hackathon:** Hackup 2026
 
 ---
 
