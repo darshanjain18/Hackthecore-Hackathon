@@ -1,4 +1,4 @@
-# 🛡️ PhishGuard – AI-Powered Multi-Channel Phishing Detection System
+# 🛡️ CortexGuard – AI-Powered Multi-Channel Phishing Detection System
 
 🚀 **Real-time phishing detection across emails, SMS, calls, URLs, and attachments using AI + sandbox simulation**
 
@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-PhishGuard is an intelligent cybersecurity platform designed to detect and explain phishing attacks in real-time. Unlike traditional systems that rely on static rules, PhishGuard uses **AI-driven analysis, sandbox simulation, and multi-channel intelligence** to identify threats before users fall victim.
+CortexGuard is an intelligent cybersecurity platform designed to detect and explain phishing attacks in real-time. Unlike traditional systems that rely on static rules, CortexGuard uses **AI-driven analysis, sandbox simulation, and multi-channel intelligence** to identify threats before users fall victim.
 
 ---
 
@@ -77,7 +77,7 @@ PhishGuard is an intelligent cybersecurity platform designed to detect and expla
 
 ## 🏗️ System Architecture
 
-PhishGuard follows a **pipeline-based architecture**:
+CortexGuard follows a **pipeline-based architecture**:
 
 ```
 User → Frontend → Flask API → Analysis Pipelines → AI Intelligence → Sandbox → Risk Engine → Database → Dashboard → Alerts
