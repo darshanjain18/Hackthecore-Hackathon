@@ -1,5 +1,5 @@
 __pycache__/
 *.pyc
+*.db
 client_secret.json
-phishguard.db
 .vscode/
