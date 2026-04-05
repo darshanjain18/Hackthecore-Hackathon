@@ -214,7 +214,7 @@ python app.py
 
 ## 👨‍💻 Team
 
-**Team Name:** BitsCompilers,
+**Team Name:** BitsCompile,
 **Hackathon:** Hackup 2026
 
 ---
